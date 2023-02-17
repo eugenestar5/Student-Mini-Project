@@ -1,27 +1,62 @@
 *{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rosybrown;
+    /* background-color: rosybrown;  */
+}
+
+visitorimg{
+    background-color: aquamarine;
 }
 
 
 img{
-    height: 600px;
+    height: 750px;
     position: relative;
     left: 500px;
+    padding: 10px;
+    border: 20px solid blue;
 }
 
 #visitorheader{
     position: relative;
-    left: 600px;
+    left: 640px;
     margin-bottom: 30px;
+    color: red;
 }
 
 .visitorMainHeader{
     position: relative;
-    left: 600px;
+    left: 720px;
+    color: red;
 }
 
 .Visitorform{
     position: relative;
-    left: 500px;
+    left: 570px;  
+}
+
+.contactheader{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    position: relative;
+    left: 570px;
+    text-decoration: dotted;
+}
+
+.SubmitButton{
+    position: relative;
+    left: 700px; 
+   margin-top: 30px;
+   background-color: blue;
+   color: red;
+   width: 200px;
+   height: 30px;
+   font-size: 20px;
+}
+
+footer{
+    color: red;
+    margin-top: 100px;
+    background-color: bisque;
+    position: relative;
+    text-align: center;
 }
