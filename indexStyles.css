@@ -1,0 +1,27 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rosybrown;
+}
+
+
+img{
+    height: 600px;
+    position: relative;
+    left: 500px;
+}
+
+#visitorheader{
+    position: relative;
+    left: 600px;
+    margin-bottom: 30px;
+}
+
+.visitorMainHeader{
+    position: relative;
+    left: 600px;
+}
+
+.Visitorform{
+    position: relative;
+    left: 500px;
+}
